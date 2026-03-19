@@ -11,8 +11,6 @@
 **A production-grade chess engine built from scratch in Python**  
 *Alpha-beta pruning · Quiescence search · Transposition tables · Tapered evaluation · 34-line opening book*
 
-[▶ Play Online](https://manish08k.github.io/chess_engine) · [📊 Accuracy Stats](#-accuracy) · [🧠 Algorithms](#-algorithms) · [🚀 Quick Start](#-quick-start)
-
 </div>
 
 
