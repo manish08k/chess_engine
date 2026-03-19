@@ -15,28 +15,7 @@
 
 </div>
 
----
 
-## 🎮 Live Demo
-
-```
-  a b c d e f g h
-8 r n b q k b n r
-7 p p p p p p p p
-6 . . . . . . . .
-5 . . . . . . . .
-4 . . . . P . . .
-3 . . . . . . . .
-2 P P P P . P P P
-1 R N B Q K B N R
-  a b c d e f g h
-
-  depth 5  score +28  move e2e4  nodes 48,291  time 1.84s
-```
-
-👉 **[Play in your browser — no install needed](https://manish08k.github.io/chess_engine)**
-
----
 
 ## 🚀 Quick Start
 
